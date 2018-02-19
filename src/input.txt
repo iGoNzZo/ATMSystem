@@ -1,0 +1,20 @@
+ATM_A
+ATM_A1
+B 111
+A 31
+1111
+111
+w
+75
+w
+50
+w
+39
+another
+A 31
+111
+w
+2
+w
+1
+quit
